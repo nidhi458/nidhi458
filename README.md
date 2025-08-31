@@ -1,14 +1,20 @@
 👋 Hi, I'm Nidhi D B!
 
-I'm a student exploring the world of programming and technology. My current focus is on learning:
-- Data Structures and Algorithms in Java (DSA): To understand problem-solving techniques.
-- Data Science: Trying to explore the concepts
+I'm a student exploring the world of programming and technology. My current focus is on:
+
+Data Structures and Algorithms (DSA) in Java – improving problem-solving skills.
+Web Development & Full Stack – building projects with HTML, CSS, JavaScript, Node.js, Express, MongoDB.
+Cloud & APIs – deploying applications and integrating third-party APIs securely.
 
 🌟 My journey so far:
-- I'm solving beginner problems on [platforms like LeetCode/GeeksforGeeks].
-- Experimenting with small projects to improve my skills.
+
+Solving problems on platforms like LeetCode and GeeksforGeeks.
+Building practical projects like a News Aggregator and Travel Planning Web App.
+Experimenting with cloud deployment using Netlify and Render.
 
 🎯 Goals:
-- Build a strong foundation in DSA.
 
-📚 Learning one step at a time, and excited to grow! Feel free to check out my repositories to follow my progress.
+Strengthen my foundation in DSA and core CS concepts.
+Build more full-stack projects and explore cloud technologies.
+
+📚 Learning one step at a time. Check out my repositories to follow my progress!
