@@ -17,4 +17,8 @@ Experimenting with cloud deployment using Netlify and Render.
 Strengthen my foundation in DSA and core CS concepts.
 Build more full-stack projects and explore cloud technologies.
 
+💻 Skills & Technologies:
+
+Java, Python, HTML, CSS, JavaScript, Express, MongoDB, pandas, matplotlib, seaborn, Git, GitHub
+
 📚 Learning one step at a time. Check out my repositories to follow my progress!
