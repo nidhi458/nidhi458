@@ -1,24 +1,15 @@
-👋 Hi, I'm Nidhi D B!
+👋 Hi, I'm Nidhi D B
 
-I'm a student exploring the world of programming and technology. My current focus is on:
+I build full-stack and AI-powered applications focused on solving real-world problems.
 
-Data Structures and Algorithms (DSA) in Java – improving problem-solving skills.
-Web Development & Full Stack – building projects with HTML, CSS, JavaScript, Node.js, Express, MongoDB.
-Cloud & APIs – deploying applications and integrating third-party APIs securely.
+Currently working with:
+• JavaScript, Node.js, Express, MongoDB
+• Python for machine learning and data analysis
+• Git/GitHub, Netlify, and Render for deployment
 
-🌟 My journey so far:
+Projects include:
+• RAG-based Document Chat System
+• Hybrid Anomaly Detection in Digital Twins
+• AI-powered News Aggregator
 
-Solving problems on platforms like LeetCode and GeeksforGeeks.
-Building practical projects like a News Aggregator and Travel Planning Web App.
-Experimenting with cloud deployment using Netlify and Render.
-
-🎯 Goals:
-
-Strengthen my foundation in DSA and core CS concepts.
-Build more full-stack projects and explore cloud technologies.
-
-💻 Skills & Technologies:
-
-Java, Python, HTML, CSS, JavaScript, Express, MongoDB, pandas, matplotlib, seaborn, Git, GitHub
-
-📚 Learning one step at a time. Check out my repositories to follow my progress!
+Currently strengthening my skills in Data Structures & Algorithms, backend development, cloud fundamentals, and applied AI through hands-on projects.
