@@ -10,6 +10,6 @@ Currently working with:
 Projects include:
 • RAG-based Document Chat System
 • Hybrid Anomaly Detection in Digital Twins
-• AI-powered News Aggregator
+• News Aggregator
 
 Currently strengthening my skills in Data Structures & Algorithms, backend development, cloud fundamentals, and applied AI through hands-on projects.
